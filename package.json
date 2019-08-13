@@ -1,0 +1,22 @@
+{
+  "name": "noughts-and-crosses-algo",
+  "version": "1.0.0",
+  "description": "basic algo to play noughts and crosses against",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGrush/noughts-and-crosses-algo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AGrush/noughts-and-crosses-algo/issues"
+  },
+  "homepage": "https://github.com/AGrush/noughts-and-crosses-algo#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
+  }
+}
